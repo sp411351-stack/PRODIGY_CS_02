@@ -1,0 +1,12 @@
+# Ignore all images (encrypted/decrypted/sample)
+*.png
+*.jpg
+*.jpeg
+
+# Ignore Python cache
+_pycache_/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
